@@ -18,13 +18,13 @@ We've got you covered no matter what programming language you prefer! Here's how
 
 - Make sure you have Python 3 installed on your system 🐍
 - Open up your terminal/command prompt and navigate to the directory containing the script 📂
-- Run the script using this command: python table_of_contents_generator.py 🚀
+- Run the script using this command: python markdownMapper.py 🚀
 
 ### 🐹 For Go users
 
 - Make sure you have Go installed on your system 🐹
 - Open up your terminal/command prompt and navigate to the directory containing the script 📂
-- Run the script using this command: go run table_of_contents_generator.go 🚀
+- Run the script using this command: go run markdownMapper.go 🚀
 
 ## 🙏 Credit
 
